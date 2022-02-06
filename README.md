@@ -1,5 +1,5 @@
 # ELECTRONIC-CIRCUITS-AND-COMMUNICATION-FUNDAMENTALS
- ECCF [SEMESTER III] 
+ ECCF & Basic Electronics Lab [SEMESTER III] 
  
  - [X] **[Syllabus](https://github.com/Amey-Thakur/ELECTRONIC-CIRCUITS-AND-COMMUNICATION-FUNDAMENTALS/blob/main/SE-Comps_CBCGS_Syllabus.pdf)**
  - [x] **ECCF - [Reference Books](https://github.com/Amey-Thakur/ELECTRONIC-CIRCUITS-AND-COMMUNICATION-FUNDAMENTALS/tree/main/Reference%20Books)**

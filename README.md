@@ -4,7 +4,7 @@
  ---
  
  - [X] **[Syllabus](https://github.com/Amey-Thakur/ELECTRONIC-CIRCUITS-AND-COMMUNICATION-FUNDAMENTALS-AND-BASIC-ELECTRONICS-LAB/blob/main/SE-Comps_CBCGS_Syllabus.pdf)**
- - [x] **ECCF - [Reference Books](https://github.com/Amey-Thakur/ELECTRONIC-CIRCUITS-AND-COMMUNICATION-FUNDAMENTALS-AND-BASIC-ELECTRONICS-LAB/tree/main/Reference%20Books)**
+ - [X] **ECCF - [Reference Books](https://github.com/Amey-Thakur/ELECTRONIC-CIRCUITS-AND-COMMUNICATION-FUNDAMENTALS-AND-BASIC-ELECTRONICS-LAB/tree/main/Reference%20Books)**
 
 ---
 

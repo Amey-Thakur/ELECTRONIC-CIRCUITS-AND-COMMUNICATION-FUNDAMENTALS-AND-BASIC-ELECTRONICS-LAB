@@ -1,5 +1,5 @@
 # ELECTRONIC-CIRCUITS-AND-COMMUNICATION-FUNDAMENTALS-AND-BASIC-ELECTRONICS-LAB
- CSC304: ECCF & CSL302: BE LAB [SEMESTER III] 
+ 👍🏻 CSC304: ECCF & CSL302: BE LAB [SEMESTER III] 
  
  ---
  
@@ -31,3 +31,8 @@
  
  - BE Lab [Experiments](https://github.com/Amey-Thakur/ELECTRONIC-CIRCUITS-AND-COMMUNICATION-FUNDAMENTALS-AND-BASIC-ELECTRONICS-LAB/blob/main/ECCF%20Experiments.pdf) - **JOURNAL**
 
+---
+
+<p align="center"> <b> 👉🏻 Subject as a part of the 3rd Semester of Engineering @ University of Mumbai 👈🏻 <b> </p>
+ 
+<p align="center"><a href='https://github.com/Amey-Thakur/ACHIEVEMENTS#engineering', style='color: greenyellow;'> ✌🏻 Back To Engineering ✌🏻</p>

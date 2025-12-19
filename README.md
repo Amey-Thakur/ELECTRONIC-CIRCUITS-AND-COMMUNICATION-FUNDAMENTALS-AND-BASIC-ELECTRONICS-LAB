@@ -1,26 +1,28 @@
+<!-- HEADER -->
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Amey-Thakur/COMPUTER-ENGINEERING/main/university-of-mumbai-logo.png" alt="University of Mumbai" width="200"/>
+  <img src="https://raw.githubusercontent.com/Amey-Thakur/COMPUTER-ENGINEERING/main/university-of-mumbai-logo.png" alt="University of Mumbai" width="200"/>
 
-# Electronic Circuits and Communication Fundamentals & Basic Electronics Lab
+  # Electronic Circuits and Communication Fundamentals & Basic Electronics Lab
 
-### CSC304 & CSL302 · Semester III · Computer Engineering
+  ### CSC304 & CSL302 · Semester III · Computer Engineering
 
-[![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](LICENSE)
-[![University](https://img.shields.io/badge/University-Mumbai-orange.svg)](https://mu.ac.in/)
-[![Institution](https://img.shields.io/badge/Institution-Terna%20Engineering%20College-green.svg)](https://ternaengg.ac.in/)
-[![Curated by](https://img.shields.io/badge/Curated%20by-Amey%20Thakur-blue.svg)](https://github.com/Amey-Thakur)
+  [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](LICENSE)
+  [![University](https://img.shields.io/badge/University-Mumbai-orange.svg)](https://mu.ac.in/)
+  [![Institution](https://img.shields.io/badge/Institution-Terna%20Engineering%20College-green.svg)](https://ternaengg.ac.in/)
+  [![Curated by](https://img.shields.io/badge/Curated%20by-Amey%20Thakur-blue.svg)](https://github.com/Amey-Thakur)
 
-**A comprehensive academic resource for Electronic Circuits and Communication Fundamentals (ECCF) and Basic Electronics Laboratory (BE Lab), covering analog and digital circuits, amplifiers, oscillators, and communication systems essential for computer engineering foundations.**
+  **A comprehensive academic resource for Electronic Circuits and Communication Fundamentals (ECCF) and Basic Electronics Laboratory (BE Lab), covering analog and digital circuits, amplifiers, oscillators, and communication systems essential for computer engineering foundations.**
 
----
+  ---
 
-[📖 Overview](#overview) · [📂 Contents](#repository-contents) · [📚 Reference Books](#reference-books) · [📝 Question Papers](#question-papers) · [✏️ Personal Preparation](#personal-preparation) · [🧪 Laboratory](#basic-electronics-laboratory) · [📋 Syllabus](#syllabus) · [📘 Usage Guidelines](#usage-guidelines) · [📜 License](#license)
+  [📖 Overview](#overview) · [📂 Contents](#repository-contents) · [📚 Reference Books](#reference-books) · [📝 Question Papers](#question-papers) · [✏️ Personal Preparation](#personal-preparation) · [🧪 Laboratory](#basic-electronics-laboratory) · [📋 Syllabus](#syllabus) · [📘 Usage Guidelines](#usage-guidelines) · [📜 License](#license)
 
 </div>
 
 ---
 
+<!-- OVERVIEW -->
 ## Overview
 
 Electronic Circuits and Communication Fundamentals (CSC304) and Basic Electronics Lab (CSL302) are core subjects in the Second Year (Semester III) of the Computer Engineering curriculum at the University of Mumbai. These courses establish the foundational understanding of semiconductor devices, amplifier circuits, and various modulation techniques crucial for developing hardware systems and communication interfaces.
@@ -53,6 +55,7 @@ All materials in this repository were gathered, organized, and documented by me 
 
 ---
 
+<!-- CONTENTS -->
 ## Repository Contents
 
 ### Reference Books
@@ -60,7 +63,7 @@ All materials in this repository were gathered, organized, and documented by me 
 This collection includes **18 comprehensive reference materials** covering all major topics:
 
 | # | Resource | Focus Area |
-|---|----------|------------|
+|:-:|:---|:---|
 | 1 | [Multiplexing & AM Part 1](https://github.com/Amey-Thakur/ELECTRONIC-CIRCUITS-AND-COMMUNICATION-FUNDAMENTALS-AND-BASIC-ELECTRONICS-LAB/blob/main/Reference%20Books/1.%20Multiplexing%20%26%20AM%20Part%201.pdf) | Communication base and AM basics |
 | 2 | [AM Numericals Part 2](https://github.com/Amey-Thakur/ELECTRONIC-CIRCUITS-AND-COMMUNICATION-FUNDAMENTALS-AND-BASIC-ELECTRONICS-LAB/blob/main/Reference%20Books/2.%20AM%20Numericals%20Part%202.pdf) | Solved problems in Amplitude Modulation |
 | 3 | [AM Transmitter Part 3 & Generation](https://github.com/Amey-Thakur/ELECTRONIC-CIRCUITS-AND-COMMUNICATION-FUNDAMENTALS-AND-BASIC-ELECTRONICS-LAB/blob/main/Reference%20Books/3.%20AM%20Transmitter%20Part%203%20%26%20Generation.pdf) | Transmitting circuits and signal generation |
@@ -87,7 +90,7 @@ This collection includes **18 comprehensive reference materials** covering all m
 University of Mumbai examination papers from **2017-2019** with complete solutions:
 
 | Exam Session | Question Paper | Solutions |
-|--------------|----------------|-----------|
+|:---|:---|:---|
 | December 2017 | [📄 Paper](https://github.com/Amey-Thakur/ELECTRONIC-CIRCUITS-AND-COMMUNICATION-FUNDAMENTALS-AND-BASIC-ELECTRONICS-LAB/blob/main/Question%20Papers/Previous%20Question%20Papers/SE-Comps_SEM3_ECCF-CBCGS_DEC17.pdf) | [✅ Solutions](https://github.com/Amey-Thakur/ELECTRONIC-CIRCUITS-AND-COMMUNICATION-FUNDAMENTALS-AND-BASIC-ELECTRONICS-LAB/blob/main/Question%20Papers/ECCF%20Solved%20Papers/SE-Comps_SEM3_ECCF-CBCGS_DEC17_SOLUTION.pdf) |
 | May 2018 | [📄 Paper](https://github.com/Amey-Thakur/ELECTRONIC-CIRCUITS-AND-COMMUNICATION-FUNDAMENTALS-AND-BASIC-ELECTRONICS-LAB/blob/main/Question%20Papers/Previous%20Question%20Papers/SE-Comps_SEM3_ECCF-CBCGS_MAY18.pdf) | [✅ Solutions](https://github.com/Amey-Thakur/ELECTRONIC-CIRCUITS-AND-COMMUNICATION-FUNDAMENTALS-AND-BASIC-ELECTRONICS-LAB/blob/main/Question%20Papers/ECCF%20Solved%20Papers/SE-Comps_SEM3_ECCF-CBCGS_MAY18_SOLUTION.pdf) |
 | December 2018 | [📄 Paper](https://github.com/Amey-Thakur/ELECTRONIC-CIRCUITS-AND-COMMUNICATION-FUNDAMENTALS-AND-BASIC-ELECTRONICS-LAB/blob/main/Question%20Papers/Previous%20Question%20Papers/SE-Comps_SEM3_ECCF-CBCGS_DEC18.pdf) | [✅ Solutions](https://github.com/Amey-Thakur/ELECTRONIC-CIRCUITS-AND-COMMUNICATION-FUNDAMENTALS-AND-BASIC-ELECTRONICS-LAB/blob/main/Question%20Papers/ECCF%20Solved%20Papers/SE-Comps_SEM3_ECCF-CBCGS_DEC18_SOLUTION.pdf) |
@@ -100,7 +103,7 @@ University of Mumbai examination papers from **2017-2019** with complete solutio
 Study materials and planning resources for effective exam preparation:
 
 | Resource | Description |
-|----------|-------------|
+|:---|:---|
 | 📝 [Syllabus Breakdown](https://github.com/Amey-Thakur/ELECTRONIC-CIRCUITS-AND-COMMUNICATION-FUNDAMENTALS-AND-BASIC-ELECTRONICS-LAB/blob/main/My%20Preparation/Note_2019-09-26_13_54_38_159.png) | Detailed module-wise syllabus notes |
 | 📊 [Module Planning](https://github.com/Amey-Thakur/ELECTRONIC-CIRCUITS-AND-COMMUNICATION-FUNDAMENTALS-AND-BASIC-ELECTRONICS-LAB/blob/main/My%20Preparation/Note_2019-09-26_14_10_59_854.png) | Topic organization and study schedule |
 | 📅 [Semester Timetable](https://github.com/Amey-Thakur/ELECTRONIC-CIRCUITS-AND-COMMUNICATION-FUNDAMENTALS-AND-BASIC-ELECTRONICS-LAB/blob/main/My%20Preparation/Note_2019-09-26_14_17_40_056.png) | Class schedule and planning |
@@ -108,23 +111,26 @@ Study materials and planning resources for effective exam preparation:
 
 ---
 
+<!-- LABORATORY -->
 ## Basic Electronics Laboratory
 
 The laboratory component (CSL302) focuses on the practical application of electronic circuit theories, providing hands-on experience with semiconductor devices and communication hardware.
 
 | Resource | Description |
-|----------|-------------|
+|:---|:---|
 | 🧪 [Laboratory Journal](https://github.com/Amey-Thakur/ELECTRONIC-CIRCUITS-AND-COMMUNICATION-FUNDAMENTALS-AND-BASIC-ELECTRONICS-LAB/blob/main/ECCF%20Experiments.pdf) | Complete record of experiments conducted, including circuit diagrams, observations, and performance analysis. |
 
 ---
 
-### Syllabus
+<!-- SYLLABUS -->
+## Syllabus
 
 > 📋 **[Official CBCGS Syllabus](https://github.com/Amey-Thakur/ELECTRONIC-CIRCUITS-AND-COMMUNICATION-FUNDAMENTALS-AND-BASIC-ELECTRONICS-LAB/blob/main/SE-Comps_CBCGS_Syllabus.pdf)**  
 > Complete Second Year Computer Engineering syllabus document from the University of Mumbai, including detailed course outcomes, assessment criteria, and module specifications for ECCF and Basic Electronics Lab.
 
 ---
 
+<!-- USAGE -->
 ## Usage Guidelines
 
 This repository is openly shared to support learning and knowledge exchange across the academic community.
@@ -140,6 +146,7 @@ The documentation and organization may provide insights into academic resource c
 
 ---
 
+<!-- LICENSE -->
 ## License
 
 This repository and all linked academic content are made available under the **Creative Commons Attribution 4.0 International License (CC BY 4.0)**. See the [LICENSE](LICENSE) file for complete terms.
@@ -148,6 +155,7 @@ This repository and all linked academic content are made available under the **C
 
 ---
 
+<!-- ABOUT -->
 ## About This Repository
 
 **Created & Maintained by**: [Amey Thakur](https://github.com/Amey-Thakur)  
@@ -167,11 +175,12 @@ Special thanks to the mentors and peers whose encouragement, discussions, and su
 
 ---
 
+<!-- FOOTER -->
 <div align="center">
 
-### Quick Navigation
+  ### Quick Navigation
 
-**[⬆ Back to Top](#electronic-circuits-and-communication-fundamentals--basic-electronics-lab)** · **[📖 Overview](#overview)** · **[📚 Reference Books](#reference-books)** · **[📝 Question Papers](#question-papers)** · **[✏️ Personal Preparation](#personal-preparation)** · **[🧪 Laboratory](#basic-electronics-laboratory)** · **[📋 Syllabus](#syllabus)**
+  **[⬆ Back to Top](#electronic-circuits-and-communication-fundamentals--basic-electronics-lab)** · **[📖 Overview](#overview)** · **[📚 Reference Books](#reference-books)** · **[📝 Question Papers](#question-papers)** · **[✏️ Personal Preparation](#personal-preparation)** · **[🧪 Laboratory](#basic-electronics-laboratory)** · **[📋 Syllabus](#syllabus)**
 
 </div>
 
@@ -179,10 +188,10 @@ Special thanks to the mentors and peers whose encouragement, discussions, and su
 
 <div align="center">
 
-### 🎓 [Computer Engineering Repository](https://github.com/Amey-Thakur/COMPUTER-ENGINEERING)
+  ### 🎓 [Computer Engineering Repository](https://github.com/Amey-Thakur/COMPUTER-ENGINEERING)
 
-**Computer Engineering (B.E.) - University of Mumbai**
+  **Computer Engineering (B.E.) - University of Mumbai**
 
-*Semester-wise curriculum, laboratories, projects, and academic notes.*
+  *Semester-wise curriculum, laboratories, projects, and academic notes.*
 
 </div>

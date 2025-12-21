@@ -130,12 +130,12 @@ Study materials and planning resources for effective exam preparation:
 
 The laboratory component (CSL302) focuses on the practical application of electronic circuit theories, providing hands-on experience with semiconductor devices and communication hardware.
 
+> [!TIP]
+> **Review Before Implementation**: Always simulate circuit designs using tools like LTSpice or Proteus before hardware assembly. This helps verify expected outputs and prevents component damage from incorrect connections.
+
 | Resource | Description |
 |:---|:---|
 | 🧪 [Laboratory Journal](https://github.com/Amey-Thakur/ELECTRONIC-CIRCUITS-AND-COMMUNICATION-FUNDAMENTALS-AND-BASIC-ELECTRONICS-LAB/blob/main/ECCF%20Experiments.pdf) | Complete record of experiments conducted, including circuit diagrams, observations, and performance analysis. |
-
-> [!TIP]
-> **Review Before Implementation**: Always simulate circuit designs using tools like LTSpice or Proteus before hardware assembly. This helps verify expected outputs and prevents component damage from incorrect connections.
 
 ---
 
@@ -221,9 +221,7 @@ Special thanks to the mentors and peers whose encouragement, discussions, and su
 <div align="center">
 
   ### 🎓 [Computer Engineering Repository](https://github.com/Amey-Thakur/COMPUTER-ENGINEERING)
-
   **Computer Engineering (B.E.) - University of Mumbai**
-
   *Semester-wise curriculum, laboratories, projects, and academic notes.*
 
 </div>

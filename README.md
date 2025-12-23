@@ -24,7 +24,7 @@
   ---
 
   <!-- Navigation Links -->
-  [📖 Overview](#overview) &nbsp;·&nbsp; [📂 Contents](#repository-contents) &nbsp;·&nbsp; [📚 Reference Books](#reference-books) &nbsp;·&nbsp; [📝 Question Papers](#question-papers) &nbsp;·&nbsp; [✏️ Personal Preparation](#personal-preparation) &nbsp;·&nbsp; [🧪 Laboratory](#basic-electronics-laboratory) &nbsp;·&nbsp; [📋 Syllabus](#syllabus) &nbsp;·&nbsp; [📘 Usage Guidelines](#usage-guidelines) &nbsp;·&nbsp; [📜 License](#license) &nbsp;·&nbsp; [ℹ️ About](#about-this-repository) &nbsp;·&nbsp; [🙏🏻 Acknowledgments](#acknowledgments)
+  [Overview](#overview) &nbsp;·&nbsp; [Contents](#repository-contents) &nbsp;·&nbsp; [Reference Books](#reference-books) &nbsp;·&nbsp; [Question Papers](#question-papers) &nbsp;·&nbsp; [Personal Preparation](#personal-preparation) &nbsp;·&nbsp; [Laboratory](#basic-electronics-laboratory) &nbsp;·&nbsp; [Syllabus](#syllabus) &nbsp;·&nbsp; [Usage Guidelines](#usage-guidelines) &nbsp;·&nbsp; [License](#license) &nbsp;·&nbsp; [About](#about-this-repository) &nbsp;·&nbsp; [Acknowledgments](#acknowledgments)
 
 </div>
 
@@ -101,12 +101,12 @@ This collection includes **18 comprehensive reference materials** covering all m
 
 University of Mumbai examination papers from **2017-2019** with complete solutions:
 
-| Exam Session | Question Paper | Solutions |
-|:---|:---|:---|
-| December 2017 | [📄 Paper](https://github.com/Amey-Thakur/ELECTRONIC-CIRCUITS-AND-COMMUNICATION-FUNDAMENTALS-AND-BASIC-ELECTRONICS-LAB/blob/main/Question%20Papers/Previous%20Question%20Papers/SE-Comps_SEM3_ECCF-CBCGS_DEC17.pdf) | [✅ Solutions](https://github.com/Amey-Thakur/ELECTRONIC-CIRCUITS-AND-COMMUNICATION-FUNDAMENTALS-AND-BASIC-ELECTRONICS-LAB/blob/main/Question%20Papers/ECCF%20Solved%20Papers/SE-Comps_SEM3_ECCF-CBCGS_DEC17_SOLUTION.pdf) |
-| May 2018 | [📄 Paper](https://github.com/Amey-Thakur/ELECTRONIC-CIRCUITS-AND-COMMUNICATION-FUNDAMENTALS-AND-BASIC-ELECTRONICS-LAB/blob/main/Question%20Papers/Previous%20Question%20Papers/SE-Comps_SEM3_ECCF-CBCGS_MAY18.pdf) | [✅ Solutions](https://github.com/Amey-Thakur/ELECTRONIC-CIRCUITS-AND-COMMUNICATION-FUNDAMENTALS-AND-BASIC-ELECTRONICS-LAB/blob/main/Question%20Papers/ECCF%20Solved%20Papers/SE-Comps_SEM3_ECCF-CBCGS_MAY18_SOLUTION.pdf) |
-| December 2018 | [📄 Paper](https://github.com/Amey-Thakur/ELECTRONIC-CIRCUITS-AND-COMMUNICATION-FUNDAMENTALS-AND-BASIC-ELECTRONICS-LAB/blob/main/Question%20Papers/Previous%20Question%20Papers/SE-Comps_SEM3_ECCF-CBCGS_DEC18.pdf) | [✅ Solutions](https://github.com/Amey-Thakur/ELECTRONIC-CIRCUITS-AND-COMMUNICATION-FUNDAMENTALS-AND-BASIC-ELECTRONICS-LAB/blob/main/Question%20Papers/ECCF%20Solved%20Papers/SE-Comps_SEM3_ECCF-CBCGS_DEC18_SOLUTION.pdf) |
-| May 2019 | [📄 Paper](https://github.com/Amey-Thakur/ELECTRONIC-CIRCUITS-AND-COMMUNICATION-FUNDAMENTALS-AND-BASIC-ELECTRONICS-LAB/blob/main/Question%20Papers/Previous%20Question%20Papers/SE-Comps_SEM3_ECCF-CBCGS_MAY19.pdf) | [✅ Solutions](https://github.com/Amey-Thakur/ELECTRONIC-CIRCUITS-AND-COMMUNICATION-FUNDAMENTALS-AND-BASIC-ELECTRONICS-LAB/blob/main/Question%20Papers/ECCF%20Solved%20Papers/SE-Comps_SEM3_ECCF-CBCGS_MAY19_SOLUTION.pdf) |
+| # | Exam Session | Question Paper | Solutions |
+|:-:|:---|:---|:---|
+| 1 | December 2017 | [Paper](https://github.com/Amey-Thakur/ELECTRONIC-CIRCUITS-AND-COMMUNICATION-FUNDAMENTALS-AND-BASIC-ELECTRONICS-LAB/blob/main/Question%20Papers/Previous%20Question%20Papers/SE-Comps_SEM3_ECCF-CBCGS_DEC17.pdf) | [Solutions](https://github.com/Amey-Thakur/ELECTRONIC-CIRCUITS-AND-COMMUNICATION-FUNDAMENTALS-AND-BASIC-ELECTRONICS-LAB/blob/main/Question%20Papers/ECCF%20Solved%20Papers/SE-Comps_SEM3_ECCF-CBCGS_DEC17_SOLUTION.pdf) |
+| 2 | May 2018 | [Paper](https://github.com/Amey-Thakur/ELECTRONIC-CIRCUITS-AND-COMMUNICATION-FUNDAMENTALS-AND-BASIC-ELECTRONICS-LAB/blob/main/Question%20Papers/Previous%20Question%20Papers/SE-Comps_SEM3_ECCF-CBCGS_MAY18.pdf) | [Solutions](https://github.com/Amey-Thakur/ELECTRONIC-CIRCUITS-AND-COMMUNICATION-FUNDAMENTALS-AND-BASIC-ELECTRONICS-LAB/blob/main/Question%20Papers/ECCF%20Solved%20Papers/SE-Comps_SEM3_ECCF-CBCGS_MAY18_SOLUTION.pdf) |
+| 3 | December 2018 | [Paper](https://github.com/Amey-Thakur/ELECTRONIC-CIRCUITS-AND-COMMUNICATION-FUNDAMENTALS-AND-BASIC-ELECTRONICS-LAB/blob/main/Question%20Papers/Previous%20Question%20Papers/SE-Comps_SEM3_ECCF-CBCGS_DEC18.pdf) | [Solutions](https://github.com/Amey-Thakur/ELECTRONIC-CIRCUITS-AND-COMMUNICATION-FUNDAMENTALS-AND-BASIC-ELECTRONICS-LAB/blob/main/Question%20Papers/ECCF%20Solved%20Papers/SE-Comps_SEM3_ECCF-CBCGS_DEC18_SOLUTION.pdf) |
+| 4 | May 2019 | [Paper](https://github.com/Amey-Thakur/ELECTRONIC-CIRCUITS-AND-COMMUNICATION-FUNDAMENTALS-AND-BASIC-ELECTRONICS-LAB/blob/main/Question%20Papers/Previous%20Question%20Papers/SE-Comps_SEM3_ECCF-CBCGS_MAY19.pdf) | [Solutions](https://github.com/Amey-Thakur/ELECTRONIC-CIRCUITS-AND-COMMUNICATION-FUNDAMENTALS-AND-BASIC-ELECTRONICS-LAB/blob/main/Question%20Papers/ECCF%20Solved%20Papers/SE-Comps_SEM3_ECCF-CBCGS_MAY19_SOLUTION.pdf) |
 
 ---
 
@@ -114,12 +114,12 @@ University of Mumbai examination papers from **2017-2019** with complete solutio
 
 Study materials and planning resources for effective exam preparation:
 
-| Resource | Description |
-|:---|:---|
-| 📝 [Syllabus Breakdown](https://github.com/Amey-Thakur/ELECTRONIC-CIRCUITS-AND-COMMUNICATION-FUNDAMENTALS-AND-BASIC-ELECTRONICS-LAB/blob/main/My%20Preparation/Note_2019-09-26_13_54_38_159.png) | Detailed module-wise syllabus notes |
-| 📊 [Module Planning](https://github.com/Amey-Thakur/ELECTRONIC-CIRCUITS-AND-COMMUNICATION-FUNDAMENTALS-AND-BASIC-ELECTRONICS-LAB/blob/main/My%20Preparation/Note_2019-09-26_14_10_59_854.png) | Topic organization and study schedule |
-| 📅 [Semester Timetable](https://github.com/Amey-Thakur/ELECTRONIC-CIRCUITS-AND-COMMUNICATION-FUNDAMENTALS-AND-BASIC-ELECTRONICS-LAB/blob/main/My%20Preparation/Note_2019-09-26_14_17_40_056.png) | Class schedule and planning |
-| 🎯 [Examination Blueprint](https://github.com/Amey-Thakur/ELECTRONIC-CIRCUITS-AND-COMMUNICATION-FUNDAMENTALS-AND-BASIC-ELECTRONICS-LAB/blob/main/Blueprint%20(ECCF).png) | Question paper pattern and marking scheme |
+| # | Resource | Description |
+|:-:|:---|:---|
+| 1 | [Syllabus Breakdown](https://github.com/Amey-Thakur/ELECTRONIC-CIRCUITS-AND-COMMUNICATION-FUNDAMENTALS-AND-BASIC-ELECTRONICS-LAB/blob/main/My%20Preparation/Note_2019-09-26_13_54_38_159.png) | Detailed module-wise syllabus notes |
+| 2 | [Module Planning](https://github.com/Amey-Thakur/ELECTRONIC-CIRCUITS-AND-COMMUNICATION-FUNDAMENTALS-AND-BASIC-ELECTRONICS-LAB/blob/main/My%20Preparation/Note_2019-09-26_14_10_59_854.png) | Topic organization and study schedule |
+| 3 | [Semester Timetable](https://github.com/Amey-Thakur/ELECTRONIC-CIRCUITS-AND-COMMUNICATION-FUNDAMENTALS-AND-BASIC-ELECTRONICS-LAB/blob/main/My%20Preparation/Note_2019-09-26_14_17_40_056.png) | Class schedule and planning |
+| 4 | [Examination Blueprint](https://github.com/Amey-Thakur/ELECTRONIC-CIRCUITS-AND-COMMUNICATION-FUNDAMENTALS-AND-BASIC-ELECTRONICS-LAB/blob/main/Blueprint%20(ECCF).png) | Question paper pattern and marking scheme |
 
 ---
 
@@ -135,7 +135,7 @@ The laboratory component (CSL302) focuses on the practical application of electr
 
 | Resource | Description |
 |:---|:---|
-| 🧪 [Laboratory Journal](https://github.com/Amey-Thakur/ELECTRONIC-CIRCUITS-AND-COMMUNICATION-FUNDAMENTALS-AND-BASIC-ELECTRONICS-LAB/blob/main/ECCF%20Experiments.pdf) | Complete record of experiments conducted, including circuit diagrams, observations, and performance analysis. |
+| [Laboratory Journal](https://github.com/Amey-Thakur/ELECTRONIC-CIRCUITS-AND-COMMUNICATION-FUNDAMENTALS-AND-BASIC-ELECTRONICS-LAB/blob/main/ECCF%20Experiments.pdf) | Complete record of experiments conducted, including circuit diagrams, observations, and performance analysis. |
 
 ---
 
@@ -144,7 +144,7 @@ The laboratory component (CSL302) focuses on the practical application of electr
      ========================================================================================= -->
 ## Syllabus
 
-> 📋 **[Official CBCGS Syllabus](https://github.com/Amey-Thakur/ELECTRONIC-CIRCUITS-AND-COMMUNICATION-FUNDAMENTALS-AND-BASIC-ELECTRONICS-LAB/blob/main/SE-Comps_CBCGS_Syllabus.pdf)**  
+> **[Official CBCGS Syllabus](https://github.com/Amey-Thakur/ELECTRONIC-CIRCUITS-AND-COMMUNICATION-FUNDAMENTALS-AND-BASIC-ELECTRONICS-LAB/blob/main/SE-Comps_CBCGS_Syllabus.pdf)**  
 > Complete Second Year Computer Engineering syllabus document from the University of Mumbai, including detailed course outcomes, assessment criteria, and module specifications for ECCF and Basic Electronics Lab.
 
 > [!IMPORTANT]
@@ -210,9 +210,9 @@ Special thanks to the mentors and peers whose encouragement, discussions, and su
 <div align="center">
 
   <!-- Footer Navigation -->
-  **[⬆ Back to Top](#electronic-circuits-and-communication-fundamentals--basic-electronics-lab)**
+  **[↑ Back to Top](#electronic-circuits-and-communication-fundamentals--basic-electronics-lab)**
 
-  **[📖 Overview](#overview)** &nbsp;·&nbsp; **[📂 Contents](#repository-contents)** &nbsp;·&nbsp; **[📚 Reference Books](#reference-books)** &nbsp;·&nbsp; **[📝 Question Papers](#question-papers)** &nbsp;·&nbsp; **[✏️ Personal Preparation](#personal-preparation)** &nbsp;·&nbsp; **[🧪 Laboratory](#basic-electronics-laboratory)** &nbsp;·&nbsp; **[📋 Syllabus](#syllabus)** &nbsp;·&nbsp; **[📘 Usage Guidelines](#usage-guidelines)** &nbsp;·&nbsp; **[📜 License](#license)** &nbsp;·&nbsp; **[ℹ️ About](#about-this-repository)** &nbsp;·&nbsp; **[🙏🏻 Acknowledgments](#acknowledgments)**
+  **[Overview](#overview)** &nbsp;·&nbsp; **[Contents](#repository-contents)** &nbsp;·&nbsp; **[Reference Books](#reference-books)** &nbsp;·&nbsp; **[Question Papers](#question-papers)** &nbsp;·&nbsp; **[Personal Preparation](#personal-preparation)** &nbsp;·&nbsp; **[Laboratory](#basic-electronics-laboratory)** &nbsp;·&nbsp; **[Syllabus](#syllabus)** &nbsp;·&nbsp; **[Usage Guidelines](#usage-guidelines)** &nbsp;·&nbsp; **[License](#license)** &nbsp;·&nbsp; **[About](#about-this-repository)** &nbsp;·&nbsp; **[Acknowledgments](#acknowledgments)**
 
 </div>
 

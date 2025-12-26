@@ -14,7 +14,7 @@
 
   <!-- Badges -->
   [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](LICENSE)
-  [![University](https://img.shields.io/badge/University-Mumbai-A6192E.svg)](https://mu.ac.in/)
+  [![University](https://img.shields.io/badge/University-Mumbai-%23A6192E.svg)](https://mu.ac.in/)
   [![Institution](https://img.shields.io/badge/Institution-Terna%20Engineering%20College-orange.svg)](https://ternaengg.ac.in/)
   [![Curated by](https://img.shields.io/badge/Curated%20by-Amey%20Thakur-blue.svg)](https://github.com/Amey-Thakur)
 
@@ -76,24 +76,24 @@ This collection includes **18 comprehensive reference materials** covering all m
 
 | # | Resource | Focus Area |
 |:-:|:---|:---|
-| 1 | [Multiplexing & AM Part 1](https://github.com/Amey-Thakur/ELECTRONIC-CIRCUITS-AND-COMMUNICATION-FUNDAMENTALS-AND-BASIC-ELECTRONICS-LAB/blob/main/Reference%20Books/1.%20Multiplexing%20%26%20AM%20Part%201.pdf) | Communication base and AM basics |
-| 2 | [AM Numericals Part 2](https://github.com/Amey-Thakur/ELECTRONIC-CIRCUITS-AND-COMMUNICATION-FUNDAMENTALS-AND-BASIC-ELECTRONICS-LAB/blob/main/Reference%20Books/2.%20AM%20Numericals%20Part%202.pdf) | Solved problems in Amplitude Modulation |
-| 3 | [AM Transmitter Part 3 & Generation](https://github.com/Amey-Thakur/ELECTRONIC-CIRCUITS-AND-COMMUNICATION-FUNDAMENTALS-AND-BASIC-ELECTRONICS-LAB/blob/main/Reference%20Books/3.%20AM%20Transmitter%20Part%203%20%26%20Generation.pdf) | Transmitting circuits and signal generation |
-| 4 | [SSB and Balanced Modulator Part 4](https://github.com/Amey-Thakur/ELECTRONIC-CIRCUITS-AND-COMMUNICATION-FUNDAMENTALS-AND-BASIC-ELECTRONICS-LAB/blob/main/Reference%20Books/4.%20SSB%20and%20Balanced%20Modulator%20Part%204.pdf) | Single Sideband and Modulators |
-| 5 | [SSB Generation (Phase Shift method)](https://github.com/Amey-Thakur/ELECTRONIC-CIRCUITS-AND-COMMUNICATION-FUNDAMENTALS-AND-BASIC-ELECTRONICS-LAB/blob/main/Reference%20Books/5.%20SSB%20Generation%20(Phase%20Shift%20method%20-New%20Syllabus)%20Part%205.pdf) | Modern SSB generation techniques |
-| 6 | [Types of AM (SSB Demodulation)](https://github.com/Amey-Thakur/ELECTRONIC-CIRCUITS-AND-COMMUNICATION-FUNDAMENTALS-AND-BASIC-ELECTRONICS-LAB/blob/main/Reference%20Books/6.%20Types%20of%20AM%20Part%206%20(SSB%20Demodulation%20-%20old%20syllabus).pdf) | Various AM methods and demodulation |
-| 7 | [Amplification & Characteristics](https://github.com/Amey-Thakur/ELECTRONIC-CIRCUITS-AND-COMMUNICATION-FUNDAMENTALS-AND-BASIC-ELECTRONICS-LAB/blob/main/Reference%20Books/Amplification%20%26%20Characteristics.pdf) | Amplifier basics and performance metrics |
-| 8 | [BJT Basic & Biasing Tech](https://github.com/Amey-Thakur/ELECTRONIC-CIRCUITS-AND-COMMUNICATION-FUNDAMENTALS-AND-BASIC-ELECTRONICS-LAB/blob/main/Reference%20Books/BJT%20Basic%20%26%20Biasing%20Tech.pdf) | Transistor fundamentals and biasing |
-| 9 | [BJT Modelling](https://github.com/Amey-Thakur/ELECTRONIC-CIRCUITS-AND-COMMUNICATION-FUNDAMENTALS-AND-BASIC-ELECTRONICS-LAB/blob/main/Reference%20Books/BJT%20Modelling.pdf) | Small signal analysis and BJT parameters |
-| 10 | [Class A Power Amplifier](https://github.com/Amey-Thakur/ELECTRONIC-CIRCUITS-AND-COMMUNICATION-FUNDAMENTALS-AND-BASIC-ELECTRONICS-LAB/blob/main/Reference%20Books/Class%20A%20Power%20Amplifier.pdf) | Power efficiency and amplification |
-| 11 | [ECCF Easy Solutions](https://github.com/Amey-Thakur/ELECTRONIC-CIRCUITS-AND-COMMUNICATION-FUNDAMENTALS-AND-BASIC-ELECTRONICS-LAB/blob/main/Reference%20Books/ECCF%20Easy%20Solutions.pdf) | Quick revision and problem solving |
-| 12 | [ECCF Introduction](https://github.com/Amey-Thakur/ELECTRONIC-CIRCUITS-AND-COMMUNICATION-FUNDAMENTALS-AND-BASIC-ELECTRONICS-LAB/blob/main/Reference%20Books/ECCF%20Introduction.pdf) | Course overview and core concepts |
-| 13 | [ECCF Notes](https://github.com/Amey-Thakur/ELECTRONIC-CIRCUITS-AND-COMMUNICATION-FUNDAMENTALS-AND-BASIC-ELECTRONICS-LAB/blob/main/Reference%20Books/ECCF%20Notes.pdf) | Detailed module-wise academic notes |
-| 14 | [ECCF Techmax](https://github.com/Amey-Thakur/ELECTRONIC-CIRCUITS-AND-COMMUNICATION-FUNDAMENTALS-AND-BASIC-ELECTRONICS-LAB/blob/main/Reference%20Books/ECCF%20Techmax.pdf) | Syllabus-oriented comprehensive reference |
-| 15 | [Electronic Devices & Circuits - David Bell](https://github.com/Amey-Thakur/ELECTRONIC-CIRCUITS-AND-COMMUNICATION-FUNDAMENTALS-AND-BASIC-ELECTRONICS-LAB/blob/main/Reference%20Books/Electronic%20Devices%20%26%20Circuits%20(2nd%20Edition)%20-%20David%20Bell.pdf) | Textbook for device physics and circuits |
-| 16 | [Electronic Devices and Circuit Theory - Boylestad](https://github.com/Amey-Thakur/ELECTRONIC-CIRCUITS-AND-COMMUNICATION-FUNDAMENTALS-AND-BASIC-ELECTRONICS-LAB/blob/main/Reference%20Books/Electronic%20Devices%20and%20Circuit%20Theory%20(7th%20Edition)%20-%20R.%20Boylestad%20%26%20L.%20Nashelsky%20(Prentice-Hall).pdf) | Industry standard academic reference |
-| 17 | [Oscillator](https://github.com/Amey-Thakur/ELECTRONIC-CIRCUITS-AND-COMMUNICATION-FUNDAMENTALS-AND-BASIC-ELECTRONICS-LAB/blob/main/Reference%20Books/Oscillator.pdf) | Signal generators and feedback analysis |
-| 18 | [P and N Type](https://github.com/Amey-Thakur/ELECTRONIC-CIRCUITS-AND-COMMUNICATION-FUNDAMENTALS-AND-BASIC-ELECTRONICS-LAB/blob/main/Reference%20Books/P%20and%20N%20Type.pdf) | Foundations of semiconductor physics |
+| 1 | [Multiplexing & AM Part 1](Reference%20Books/1.%20Multiplexing%20%26%20AM%20Part%201.pdf) | Communication base and AM basics |
+| 2 | [AM Numericals Part 2](Reference%20Books/2.%20AM%20Numericals%20Part%202.pdf) | Solved problems in Amplitude Modulation |
+| 3 | [AM Transmitter Part 3 & Generation](Reference%20Books/3.%20AM%20Transmitter%20Part%203%20%26%20Generation.pdf) | Transmitting circuits and signal generation |
+| 4 | [SSB and Balanced Modulator Part 4](Reference%20Books/4.%20SSB%20and%20Balanced%20Modulator%20Part%204.pdf) | Single Sideband and Modulators |
+| 5 | [SSB Generation (Phase Shift method)](Reference%20Books/5.%20SSB%20Generation%20(Phase%20Shift%20method%20-New%20Syllabus)%20Part%205.pdf) | Modern SSB generation techniques |
+| 6 | [Types of AM (SSB Demodulation)](Reference%20Books/6.%20Types%20of%20AM%20Part%206%20(SSB%20Demodulation%20-%20old%20syllabus).pdf) | Various AM methods and demodulation |
+| 7 | [Amplification & Characteristics](Reference%20Books/Amplification%20%26%20Characteristics.pdf) | Amplifier basics and performance metrics |
+| 8 | [BJT Basic & Biasing Tech](Reference%20Books/BJT%20Basic%20%26%20Biasing%20Tech.pdf) | Transistor fundamentals and biasing |
+| 9 | [BJT Modelling](Reference%20Books/BJT%20Modelling.pdf) | Small signal analysis and BJT parameters |
+| 10 | [Class A Power Amplifier](Reference%20Books/Class%20A%20Power%20Amplifier.pdf) | Power efficiency and amplification |
+| 11 | [ECCF Easy Solutions](Reference%20Books/ECCF%20Easy%20Solutions.pdf) | Quick revision and problem solving |
+| 12 | [ECCF Introduction](Reference%20Books/ECCF%20Introduction.pdf) | Course overview and core concepts |
+| 13 | [ECCF Notes](Reference%20Books/ECCF%20Notes.pdf) | Detailed module-wise academic notes |
+| 14 | [ECCF Techmax](Reference%20Books/ECCF%20Techmax.pdf) | Syllabus-oriented comprehensive reference |
+| 15 | [Electronic Devices & Circuits - David Bell](Reference%20Books/Electronic%20Devices%20%26%20Circuits%20(2nd%20Edition)%20-%20David%20Bell.pdf) | Textbook for device physics and circuits |
+| 16 | [Electronic Devices and Circuit Theory - Boylestad](Reference%20Books/Electronic%20Devices%20and%20Circuit%20Theory%20(7th%20Edition)%20-%20R.%20Boylestad%20%26%20L.%20Nashelsky%20(Prentice-Hall).pdf) | Industry standard academic reference |
+| 17 | [Oscillator](Reference%20Books/Oscillator.pdf) | Signal generators and feedback analysis |
+| 18 | [P and N Type](Reference%20Books/P%20and%20N%20Type.pdf) | Foundations of semiconductor physics |
 
 ---
 
@@ -103,10 +103,10 @@ University of Mumbai examination papers from **2017-2019** with complete solutio
 
 | # | Exam Session | Question Paper | Solutions |
 |:-:|:---|:---|:---|
-| 1 | December 2017 | [Paper](https://github.com/Amey-Thakur/ELECTRONIC-CIRCUITS-AND-COMMUNICATION-FUNDAMENTALS-AND-BASIC-ELECTRONICS-LAB/blob/main/Question%20Papers/Previous%20Question%20Papers/SE-Comps_SEM3_ECCF-CBCGS_DEC17.pdf) | [Solutions](https://github.com/Amey-Thakur/ELECTRONIC-CIRCUITS-AND-COMMUNICATION-FUNDAMENTALS-AND-BASIC-ELECTRONICS-LAB/blob/main/Question%20Papers/ECCF%20Solved%20Papers/SE-Comps_SEM3_ECCF-CBCGS_DEC17_SOLUTION.pdf) |
-| 2 | May 2018 | [Paper](https://github.com/Amey-Thakur/ELECTRONIC-CIRCUITS-AND-COMMUNICATION-FUNDAMENTALS-AND-BASIC-ELECTRONICS-LAB/blob/main/Question%20Papers/Previous%20Question%20Papers/SE-Comps_SEM3_ECCF-CBCGS_MAY18.pdf) | [Solutions](https://github.com/Amey-Thakur/ELECTRONIC-CIRCUITS-AND-COMMUNICATION-FUNDAMENTALS-AND-BASIC-ELECTRONICS-LAB/blob/main/Question%20Papers/ECCF%20Solved%20Papers/SE-Comps_SEM3_ECCF-CBCGS_MAY18_SOLUTION.pdf) |
-| 3 | December 2018 | [Paper](https://github.com/Amey-Thakur/ELECTRONIC-CIRCUITS-AND-COMMUNICATION-FUNDAMENTALS-AND-BASIC-ELECTRONICS-LAB/blob/main/Question%20Papers/Previous%20Question%20Papers/SE-Comps_SEM3_ECCF-CBCGS_DEC18.pdf) | [Solutions](https://github.com/Amey-Thakur/ELECTRONIC-CIRCUITS-AND-COMMUNICATION-FUNDAMENTALS-AND-BASIC-ELECTRONICS-LAB/blob/main/Question%20Papers/ECCF%20Solved%20Papers/SE-Comps_SEM3_ECCF-CBCGS_DEC18_SOLUTION.pdf) |
-| 4 | May 2019 | [Paper](https://github.com/Amey-Thakur/ELECTRONIC-CIRCUITS-AND-COMMUNICATION-FUNDAMENTALS-AND-BASIC-ELECTRONICS-LAB/blob/main/Question%20Papers/Previous%20Question%20Papers/SE-Comps_SEM3_ECCF-CBCGS_MAY19.pdf) | [Solutions](https://github.com/Amey-Thakur/ELECTRONIC-CIRCUITS-AND-COMMUNICATION-FUNDAMENTALS-AND-BASIC-ELECTRONICS-LAB/blob/main/Question%20Papers/ECCF%20Solved%20Papers/SE-Comps_SEM3_ECCF-CBCGS_MAY19_SOLUTION.pdf) |
+| 1 | December 2017 | [Paper](Question%20Papers/Previous%20Question%20Papers/SE-Comps_SEM3_ECCF-CBCGS_DEC17.pdf) | [Solutions](Question%20Papers/ECCF%20Solved%20Papers/SE-Comps_SEM3_ECCF-CBCGS_DEC17_SOLUTION.pdf) |
+| 2 | May 2018 | [Paper](Question%20Papers/Previous%20Question%20Papers/SE-Comps_SEM3_ECCF-CBCGS_MAY18.pdf) | [Solutions](Question%20Papers/ECCF%20Solved%20Papers/SE-Comps_SEM3_ECCF-CBCGS_MAY18_SOLUTION.pdf) |
+| 3 | December 2018 | [Paper](Question%20Papers/Previous%20Question%20Papers/SE-Comps_SEM3_ECCF-CBCGS_DEC18.pdf) | [Solutions](Question%20Papers/ECCF%20Solved%20Papers/SE-Comps_SEM3_ECCF-CBCGS_DEC18_SOLUTION.pdf) |
+| 4 | May 2019 | [Paper](Question%20Papers/Previous%20Question%20Papers/SE-Comps_SEM3_ECCF-CBCGS_MAY19.pdf) | [Solutions](Question%20Papers/ECCF%20Solved%20Papers/SE-Comps_SEM3_ECCF-CBCGS_MAY19_SOLUTION.pdf) |
 
 ---
 
@@ -116,10 +116,10 @@ Study materials and planning resources for effective exam preparation:
 
 | # | Resource | Description |
 |:-:|:---|:---|
-| 1 | [Syllabus Breakdown](https://github.com/Amey-Thakur/ELECTRONIC-CIRCUITS-AND-COMMUNICATION-FUNDAMENTALS-AND-BASIC-ELECTRONICS-LAB/blob/main/My%20Preparation/Note_2019-09-26_13_54_38_159.png) | Detailed module-wise syllabus notes |
-| 2 | [Module Planning](https://github.com/Amey-Thakur/ELECTRONIC-CIRCUITS-AND-COMMUNICATION-FUNDAMENTALS-AND-BASIC-ELECTRONICS-LAB/blob/main/My%20Preparation/Note_2019-09-26_14_10_59_854.png) | Topic organization and study schedule |
-| 3 | [Semester Timetable](https://github.com/Amey-Thakur/ELECTRONIC-CIRCUITS-AND-COMMUNICATION-FUNDAMENTALS-AND-BASIC-ELECTRONICS-LAB/blob/main/My%20Preparation/Note_2019-09-26_14_17_40_056.png) | Class schedule and planning |
-| 4 | [Examination Blueprint](https://github.com/Amey-Thakur/ELECTRONIC-CIRCUITS-AND-COMMUNICATION-FUNDAMENTALS-AND-BASIC-ELECTRONICS-LAB/blob/main/Blueprint%20(ECCF).png) | Question paper pattern and marking scheme |
+| 1 | [Syllabus Breakdown](My%20Preparation/Note_2019-09-26_13_54_38_159.png) | Detailed module-wise syllabus notes |
+| 2 | [Module Planning](My%20Preparation/Note_2019-09-26_14_10_59_854.png) | Topic organization and study schedule |
+| 3 | [Semester Timetable](My%20Preparation/Note_2019-09-26_14_17_40_056.png) | Class schedule and planning |
+| 4 | [Examination Blueprint](Blueprint%20(ECCF).png) | Question paper pattern and marking scheme |
 
 ---
 
@@ -135,7 +135,7 @@ The laboratory component (CSL302) focuses on the practical application of electr
 
 | # | Resource | Description |
 |:-:|:---|:---|
-| 1 | [Laboratory Journal](https://github.com/Amey-Thakur/ELECTRONIC-CIRCUITS-AND-COMMUNICATION-FUNDAMENTALS-AND-BASIC-ELECTRONICS-LAB/blob/main/ECCF%20Experiments.pdf) | Complete record of experiments conducted, including circuit diagrams, observations, and performance analysis. |
+| 1 | [Laboratory Journal](ECCF%20Experiments.pdf) | Complete record of experiments conducted, including circuit diagrams, observations, and performance analysis. |
 
 ---
 
@@ -144,7 +144,7 @@ The laboratory component (CSL302) focuses on the practical application of electr
      ========================================================================================= -->
 ## Syllabus
 
-> **[Official CBCGS Syllabus](https://github.com/Amey-Thakur/ELECTRONIC-CIRCUITS-AND-COMMUNICATION-FUNDAMENTALS-AND-BASIC-ELECTRONICS-LAB/blob/main/SE-Comps_CBCGS_Syllabus.pdf)**  
+> **[Official CBCGS Syllabus](SE-Comps_CBCGS_Syllabus.pdf)**  
 > Complete Second Year Computer Engineering syllabus document from the University of Mumbai, including detailed course outcomes, assessment criteria, and module specifications for ECCF and Basic Electronics Lab.
 
 > [!IMPORTANT]
@@ -210,9 +210,9 @@ Special thanks to the mentors and peers whose encouragement, discussions, and su
 <div align="center">
 
   <!-- Footer Navigation -->
-  **[↑ Back to Top](#electronic-circuits-and-communication-fundamentals--basic-electronics-lab)**
+  [↑ Back to Top](#electronic-circuits-and-communication-fundamentals--basic-electronics-lab)
 
-  **[Overview](#overview)** &nbsp;·&nbsp; **[Contents](#repository-contents)** &nbsp;·&nbsp; **[Reference Books](#reference-books)** &nbsp;·&nbsp; **[Question Papers](#question-papers)** &nbsp;·&nbsp; **[Personal Preparation](#personal-preparation)** &nbsp;·&nbsp; **[Laboratory](#basic-electronics-laboratory)** &nbsp;·&nbsp; **[Syllabus](#syllabus)** &nbsp;·&nbsp; **[Usage Guidelines](#usage-guidelines)** &nbsp;·&nbsp; **[License](#license)** &nbsp;·&nbsp; **[About](#about-this-repository)** &nbsp;·&nbsp; **[Acknowledgments](#acknowledgments)**
+  [Overview](#overview) &nbsp;·&nbsp; [Contents](#repository-contents) &nbsp;·&nbsp; [Reference Books](#reference-books) &nbsp;·&nbsp; [Question Papers](#question-papers) &nbsp;·&nbsp; [Personal Preparation](#personal-preparation) &nbsp;·&nbsp; [Laboratory](#basic-electronics-laboratory) &nbsp;·&nbsp; [Syllabus](#syllabus) &nbsp;·&nbsp; [Usage Guidelines](#usage-guidelines) &nbsp;·&nbsp; [License](#license) &nbsp;·&nbsp; [About](#about-this-repository) &nbsp;·&nbsp; [Acknowledgments](#acknowledgments)
 
 </div>
 

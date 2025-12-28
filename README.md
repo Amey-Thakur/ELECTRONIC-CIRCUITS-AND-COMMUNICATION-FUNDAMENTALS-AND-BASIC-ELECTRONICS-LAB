@@ -224,7 +224,6 @@ Special thanks to the mentors and peers whose encouragement, discussions, and su
 
   **Computer Engineering (B.E.) - University of Mumbai**
 
-
   *Semester-wise curriculum, laboratories, projects, and academic notes.*
 
 </div>

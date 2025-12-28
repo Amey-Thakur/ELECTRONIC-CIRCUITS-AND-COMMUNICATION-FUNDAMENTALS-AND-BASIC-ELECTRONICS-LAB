@@ -1,22 +1,32 @@
-# OS files
+# General
 .DS_Store
 Thumbs.db
+*.log
+*.tmp
+*.bak
+*.swp
+*~
 
-# IDE files
+# Editors
 .vscode/
 .idea/
 
-# Environments
-__pycache__/
-*.pyc
-*.pyo
-venv/
-env/
+# Electronics Design & Simulation
+# LTSpice
+*.raw
+*.fft
+*.op.raw
+*.net
+*.plt
 
-# Build artifacts
-*.exe
-*.dll
-*.so
-*.dylib
+# Proteus
+*.pdsbak
+*.backup
+*.LBK
+
+# Build Artifacts (if any embedded code)
+*.hex
+*.elf
+*.o
 bin/
 obj/

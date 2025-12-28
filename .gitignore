@@ -1,32 +1,79 @@
+# ALL REPOSITORIES
+# ----------------
 # General
 .DS_Store
 Thumbs.db
+*.swp
 *.log
 *.tmp
 *.bak
-*.swp
 *~
 
-# Editors
-.vscode/
-.idea/
+# Windows
+desktop.ini
+$RECYCLE.BIN/
 
-# Electronics Design & Simulation
+# VS Code
+.vscode/
+*.code-workspace
+
+# JetBrains
+.idea/
+*.iml
+
+# PDF/Doc generation artifacts
+*.aux
+*.bbl
+*.blg
+*.idx
+*.ind
+*.lof
+*.lot
+*.out
+*.toc
+
+# Electronics Design & Simulation Tools
+# -----------------------------------
 # LTSpice
 *.raw
 *.fft
 *.op.raw
 *.net
 *.plt
+*.log
 
 # Proteus
 *.pdsbak
 *.backup
 *.LBK
+*.pdsprj.workspace
 
-# Build Artifacts (if any embedded code)
+# Multisim
+*.ewl
+*.db
+
+# KiCad
+*.bck
+*.lck
+*.kicad_prl
+*.kicad_pcb-bak
+
+# Eagle
+*.b#?
+*.s#?
+*.l#?
+*.pro
+*.job
+
+# Build Artifacts (Embedded)
 *.hex
 *.elf
 *.o
-bin/
+*.bin
+*.map
+*.lst
 obj/
+bin/
+
+# Git
+*.orig

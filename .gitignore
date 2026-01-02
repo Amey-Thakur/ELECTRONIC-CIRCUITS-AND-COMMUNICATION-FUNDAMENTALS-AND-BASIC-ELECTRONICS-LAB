@@ -1,64 +1,40 @@
-# ALL REPOSITORIES
-# ----------------
-# General
+# ECCF - Academic Repository
+# Specialized .gitignore for electronics and communications archiving
+
+# OS-generated files
+[Tt]humbs.db
+[Dd]esktop.ini
 .DS_Store
-Thumbs.db
-*.swp
-*.log
-*.tmp
-*.bak
-*~
+.AppleDouble
+.LSOverride
 
-# Windows
-desktop.ini
-$RECYCLE.BIN/
-
-# VS Code
+# Editor and IDE configuration
 .vscode/
+.idea/
+*.swp
+*.swo
+*~
+*.iml
 *.code-workspace
 
-# JetBrains
-.idea/
-*.iml
-
-# PDF/Doc generation artifacts
-*.aux
-*.bbl
-*.blg
-*.idx
-*.ind
-*.lof
-*.lot
-*.out
-*.toc
-
 # Electronics Design & Simulation Tools
-# -----------------------------------
-# LTSpice
+# (LTSpice, Multisim, Proteus, KiCad, Eagle)
 *.raw
 *.fft
 *.op.raw
 *.net
 *.plt
 *.log
-
-# Proteus
 *.pdsbak
 *.backup
 *.LBK
 *.pdsprj.workspace
-
-# Multisim
 *.ewl
 *.db
-
-# KiCad
 *.bck
 *.lck
 *.kicad_prl
 *.kicad_pcb-bak
-
-# Eagle
 *.b#?
 *.s#?
 *.l#?
@@ -75,5 +51,22 @@ $RECYCLE.BIN/
 obj/
 bin/
 
-# Git
-*.orig
+# Temporary and Cache files
+*.tmp
+*.log
+.cache/
+node_modules/
+
+# Academic build/output artifacts
+*.bak
+*.sav
+*.old
+*.aux
+*.bbl
+*.blg
+*.idx
+*.ind
+*.lof
+*.lot
+*.out
+*.toc

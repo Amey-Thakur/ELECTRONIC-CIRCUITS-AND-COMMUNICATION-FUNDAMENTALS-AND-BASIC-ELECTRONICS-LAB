@@ -79,7 +79,7 @@ This collection includes **comprehensive reference materials** covering all majo
 |:-:|:---|:---|
 | 1 | [Multiplexing & AM Part 1](Reference%20Books/1.%20Multiplexing%20%26%20AM%20Part%201.pdf) | Communication base and AM basics |
 | 2 | [AM Numericals Part 2](Reference%20Books/2.%20AM%20Numericals%20Part%202.pdf) | Solved problems in Amplitude Modulation |
-| 3 | [AM Transmitter Part 3 & Generation](Reference%20Books/3.%20AM%20Transmitter%20Part%203%20%26%20Generation.pdf) | Transmitting circuits and signal generation |
+| 3 | [AM Transmitter Part 3 & Generation](Reference%20Books/3.%20AM%20Transmitter%20Part%203%20%26%20Generation.pdf) | Despite the filename, this file holds the Class A Power Amplifier notes and is identical to item 10 |
 | 4 | [SSB and Balanced Modulator Part 4](Reference%20Books/4.%20SSB%20and%20Balanced%20Modulator%20Part%204.pdf) | Single Sideband and Modulators |
 | 5 | [SSB Generation (Phase Shift method)](Reference%20Books/5.%20SSB%20Generation%20(Phase%20Shift%20method%20-New%20Syllabus)%20Part%205.pdf) | Modern SSB generation techniques |
 | 6 | [Types of AM (SSB Demodulation)](Reference%20Books/6.%20Types%20of%20AM%20Part%206%20(SSB%20Demodulation%20-%20old%20syllabus).pdf) | Various AM methods and demodulation |
@@ -106,7 +106,7 @@ Study materials and planning resources for effective exam preparation:
 |:-:|:---|:---|
 | 1 | [Syllabus Breakdown](My%20Preparation/Note_2019-09-26_13_54_38_159.png) | Detailed module-wise syllabus notes |
 | 2 | [Module Planning](My%20Preparation/Note_2019-09-26_14_10_59_854.png) | Topic organization and study schedule |
-| 3 | [Semester Timetable](My%20Preparation/Note_2019-09-26_14_17_40_056.png) | Class schedule and planning |
+| 3 | [Examination Timetable](My%20Preparation/Sem%203%20TT.jpg) | Winter 2019 Semester III examination schedule &middot; also as [PDF](My%20Preparation/SEMESTER%203%20Timetable.pdf) and [annotated note](My%20Preparation/Note_2019-09-26_14_17_40_056.png) |
 | 4 | [Examination Blueprint](Blueprint%20(ECCF).png) | Question paper pattern and marking scheme |
 
 ---
@@ -228,3 +228,4 @@ Special thanks to the mentors and peers whose encouragement, discussions, and su
   *Semester-wise curriculum, laboratories, projects, and academic notes.*
 
 </div>
+

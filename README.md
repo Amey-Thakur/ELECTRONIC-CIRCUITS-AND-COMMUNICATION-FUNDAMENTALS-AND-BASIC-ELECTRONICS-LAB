@@ -13,13 +13,13 @@
   ### CSC304 & CSL302 · Semester III · Computer Engineering
 
   <!-- Badges -->
-  [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](LICENSE)
-  [![University](https://img.shields.io/badge/University-Mumbai-%23A6192E.svg)](https://mu.ac.in/)
-  [![Institution](https://img.shields.io/badge/Institution-Terna%20Engineering%20College-orange.svg)](https://ternaengg.ac.in/)
-  [![Curated by](https://img.shields.io/badge/Curated%20by-Amey%20Thakur-blue.svg)](https://github.com/Amey-Thakur)
+  [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-9E9E9E.svg)](LICENSE)
+  [![University](https://img.shields.io/badge/University-Mumbai-A6192E.svg)](https://mu.ac.in/)
+  [![Institution](https://img.shields.io/badge/Institution-Terna%20Engineering%20College-E8710A.svg)](https://ternaengg.ac.in/)
+  [![Curated by](https://img.shields.io/badge/Curated%20by-Amey%20Thakur-0969DA.svg)](https://github.com/Amey-Thakur)
 
   <!-- Short Description -->
-  **A comprehensive academic resource for Electronic Circuits and Communication Fundamentals (ECCF) and Basic Electronics Laboratory (BE Lab), covering analog and digital circuits, amplifiers, oscillators, and communication systems essential for computer engineering foundations.**
+  **A complete academic archive for Electronic Circuits and Communication Fundamentals (ECCF) and Basic Electronics Laboratory (BE Lab), covering analog and digital circuits, amplifiers, oscillators, and communication systems essential for computer engineering foundations.**
 
   ---
 
@@ -35,11 +35,11 @@
      ========================================================================================= -->
 ## Overview
 
-Electronic Circuits and Communication Fundamentals (CSC304) and Basic Electronics Lab (CSL302) are core subjects in the Second Year (Semester III) of the Computer Engineering curriculum at the University of Mumbai. These courses establish the foundational understanding of semiconductor devices, amplifier circuits, and various modulation techniques crucial for developing hardware systems and communication interfaces.
+Electronic Circuits and Communication Fundamentals (CSC304) and Basic Electronics Lab (CSL302) are core subjects in the Second Year (Semester III) of the Computer Engineering curriculum at the University of Mumbai. These courses establish the foundational understanding of semiconductor devices, amplifier circuits, and various modulation techniques essential to developing hardware systems and communication interfaces.
 
 ### Course Topics
 
-The curriculum encompasses several key domains in electronic circuits and communication theory:
+The curriculum comprises several key domains in electronic circuits and communication theory:
 
 - **Semiconductor Devices**: P-type and N-type semiconductor physics, diode characteristics, and applications.
 - **Bipolar Junction Transistors (BJT)**: Transistor fundamentals, biasing techniques, small-signal models, and hybrid parameters.
@@ -50,13 +50,13 @@ The curriculum encompasses several key domains in electronic circuits and commun
 
 ### Repository Purpose
 
-This repository represents a curated collection of study materials, reference books, question papers, and personal preparation notes compiled during my academic journey. The primary motivation for creating and maintaining this archive is simple yet profound: **to preserve knowledge for continuous learning and future reference**.
+This repository is a curated collection of study materials, reference books, question papers, and personal preparation notes compiled during my academic journey. The primary motivation for creating and maintaining this archive is straightforward: **to preserve knowledge for continuous learning and future reference**.
 
-As I progress in my career, I recognize that electronic circuit fundamentals remain essential for understanding hardware-software co-design, signal processing, and telecommunication systems. This repository serves as my intellectual reference point: a resource I can return to for relearning concepts, reviewing methodologies, and strengthening understanding when needed.
+As I progress in my career, I recognize that electronic circuit fundamentals remain essential for understanding hardware-software co-design, signal processing, and telecommunication systems. This repository remains my principal reference: a resource I can return to for relearning concepts, reviewing methodologies, and strengthening understanding when needed.
 
 **Why this repository exists:**
 
-- **Knowledge Preservation**: To maintain organized access to comprehensive study materials beyond the classroom.
+- **Knowledge Preservation**: To maintain organized access to complete study materials beyond the classroom.
 - **Continuous Learning**: To support lifelong learning by enabling easy revisitation of fundamental electronic and communication concepts.
 - **Academic Documentation**: To authentically document my learning journey through ECCF and Basic Electronics Lab.
 - **Community Contribution**: To share these resources with students and learners who may benefit from them.
@@ -73,7 +73,7 @@ As I progress in my career, I recognize that electronic circuit fundamentals rem
 
 ### Reference Books
 
-This collection includes **comprehensive reference materials** covering all major topics:
+This collection includes **authoritative reference materials** covering all major topics:
 
 | # | Resource | Focus Area |
 |:-:|:---|:---|
@@ -90,7 +90,7 @@ This collection includes **comprehensive reference materials** covering all majo
 | 11 | [ECCF Easy Solutions](Reference%20Books/ECCF%20Easy%20Solutions.pdf) | Quick revision and problem solving |
 | 12 | [ECCF Introduction](Reference%20Books/ECCF%20Introduction.pdf) | Course overview and core concepts |
 | 13 | [ECCF Notes](Reference%20Books/ECCF%20Notes.pdf) | Detailed module-wise academic notes |
-| 14 | [ECCF Techmax](Reference%20Books/ECCF%20Techmax.pdf) | Syllabus-oriented comprehensive reference |
+| 14 | [ECCF Techmax](Reference%20Books/ECCF%20Techmax.pdf) | Syllabus-oriented complete reference |
 | 15 | [Electronic Devices & Circuits - David Bell](Reference%20Books/Electronic%20Devices%20%26%20Circuits%20(2nd%20Edition)%20-%20David%20Bell.pdf) | Textbook for device physics and circuits |
 | 16 | [Electronic Devices and Circuit Theory - Boylestad](Reference%20Books/Electronic%20Devices%20and%20Circuit%20Theory%20(7th%20Edition)%20-%20R.%20Boylestad%20%26%20L.%20Nashelsky%20(Prentice-Hall).pdf) | Industry standard academic reference |
 | 17 | [Oscillator](Reference%20Books/Oscillator.pdf) | Signal generators and feedback analysis |
@@ -164,7 +164,7 @@ This repository is openly shared to support learning and knowledge exchange acro
 Use these resources as reference materials for understanding concepts, reviewing problem-solving techniques, and preparing for examinations. All content is organized for self-paced learning.
 
 **For Educators**  
-These materials may serve as curriculum references, assignment examples, or supplementary teaching resources. Attribution is appreciated when utilizing content.
+These materials may serve as curriculum references, assignment examples, or supplementary teaching resources. Attribution is appreciated when using content.
 
 **For Researchers**  
 The documentation and organization may provide insights into academic resource curation and educational content structuring.
@@ -193,7 +193,7 @@ This repository and all linked academic content are made available under the **C
 **Institution**: [Terna Engineering College](https://ternaengg.ac.in/), Navi Mumbai  
 **University**: [University of Mumbai](https://mu.ac.in/)
 
-This repository represents a comprehensive collection of study materials, reference books, question papers, and personal preparation notes curated during my academic journey. All content has been carefully organized and documented to serve as a valuable resource for students pursuing Electronic Circuits and Communication Fundamentals & Basic Electronics Lab.
+This repository is a complete collection of study materials, reference books, question papers, and personal preparation notes curated during my academic journey. All content has been carefully organized and documented to remain a dependable reference for students pursuing Electronic Circuits and Communication Fundamentals & Basic Electronics Lab.
 
 **Connect**: [GitHub](https://github.com/Amey-Thakur) &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/amey-thakur) &nbsp;·&nbsp; [ORCID](https://orcid.org/0000-0001-5644-1575)
 

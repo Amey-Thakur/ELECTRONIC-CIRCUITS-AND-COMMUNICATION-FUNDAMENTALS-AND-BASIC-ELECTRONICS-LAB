@@ -1,0 +1,37 @@
+# Electronic Circuits and Communication Fundamentals & Basic Electronics Lab
+
+> CSC304: Electronic Circuits and Communication Fundamentals [ECCF] &
+> CSL302: Basic Electronics Lab [BE Lab] | SE Semester III | Computer
+> Engineering
+
+Author: Amey Thakur, ORCID 0000-0001-5644-1575
+Co-author: Mega Satish, ORCID 0000-0002-1844-9557
+Institution: Terna Engineering College, University of Mumbai
+Programme: B.E. Computer Engineering, Second Year, Semester III
+Course codes: CSC304, CSL302
+Licence: CC BY 4.0, attribution required
+Repository created: 6 February 2022
+Work dated: 17 January 2020
+
+## What is in this repository
+
+- My Preparation, 5 files
+- Question Papers, 8 files
+- Reference Books, 18 files
+- Blueprint (ECCF).png
+- ECCF Experiments.pdf
+- SE-Comps_CBCGS_Syllabus.pdf
+
+## Subject terms
+
+amplifiers, amplitude-modulation, basic-electronics, basic-electronics-lab,
+communication-fundamentals, computer-engineering, computer-science,
+electronic-circuits, engineering, oscillators, reference-books,
+semiconductor-devices, study-materials, textbooks, university-of-mumbai
+
+## Where this sits
+
+- This repository: https://github.com/Amey-Thakur/ELECTRONIC-CIRCUITS-AND-COMMUNICATION-FUNDAMENTALS-AND-BASIC-ELECTRONICS-LAB
+- Degree index, every subject and project: https://github.com/Amey-Thakur/COMPUTER-ENGINEERING
+- Author: https://github.com/Amey-Thakur
+- Research notes and reflections: https://amey-thakur.github.io/
